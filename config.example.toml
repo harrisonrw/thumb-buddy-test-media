@@ -1,0 +1,6 @@
+# Copy to config.toml (git-ignored) to keep the media somewhere other than
+# the project root.
+
+# Directory containing the category sub-directories (action-sports, negative,
+# ...). Relative paths are relative to this file; ~ is expanded.
+root = "~/Media/thumb-buddy-test-media"
