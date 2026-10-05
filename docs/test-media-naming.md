@@ -5,6 +5,7 @@
 ```
 /test-media
   /action-sports
+  /animation
   /high-motion
   /landscape
   /low-light
